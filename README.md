@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheryldietrich
 - 👀 I’m interested in infectious disease epidemiology
-- 🌱 I’m currently re-learning basics on GitHub and data cleaning/analysis
+- 🌱 I’m always learning - especially in R
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me [coming soon]
 
